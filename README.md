@@ -4,10 +4,10 @@
 - :wine_glass: Right now i am thinking of creating "redwine", a web development and software company
 
 - 📫 How to reach me:<br>
-&nbsp;Facebook: facebook.com/gabriel.estacio/ <br>
-&nbsp;Instagram: @_estiel_ <br>
-&nbsp;Twitter: @gestacio21 <br>
-&nbsp;Gmail: gestacio1310@gmail.com <br>
+    Facebook: facebook.com/gabriel.estacio/ <br>
+    Instagram: @_estiel_ <br>
+    Twitter: @gestacio21 <br>
+    Gmail: gestacio1310@gmail.com <br>
 
 <!---
 gestacio/gestacio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
