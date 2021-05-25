@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel Estacio
-- :guitar: My hobbies are: play guitar ♥ play video games, listen to music, go for a walk, laugh with friends :laughing:
+- :guitar: My hobbies are: play guitar ♥ play video games, listen to music, go for a walk and laugh with friends :laughing:
 - 👀 I’m interested in learning about video game programming and web development
 - :books: I’m currently learning Assassin's Creed books, they are really fantastic!
 - :wine_glass: Right now i am thinking of creating "redwine", a web development and software company
