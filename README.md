@@ -6,7 +6,7 @@
 
 - 📫 How to reach me:<br>
     Facebook: facebook.com/gabriel.estacio/ <br>
-    Instagram: @_estiel_ <br>
+    Instagram: @\_estiel\_ <br>
     Twitter: @gestacio21 <br>
     Gmail: gestacio1310@gmail.com <br>
 
