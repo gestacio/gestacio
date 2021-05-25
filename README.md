@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Estacio
 - 👀 I’m interested in learning about video game programming and web development
-- 🌱 I’m currently learning Assassin's Creed books, they are really fantastic!
+- :books: I’m currently learning Assassin's Creed books, they are really fantastic!
 - :wine_glass: Right now i am thinking of creating "redwine", a web development and software company
 
 - 📫 How to reach me:
